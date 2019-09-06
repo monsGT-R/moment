@@ -1,7 +1,7 @@
 {
     "name": "moment-ru",
-    "version": "2.24.1",
-    "description": "Parse, validate, manipulate, and display dates",
+    "version": "2.24.2",
+    "description": "Moment with only ru locale",
     "homepage": "http://momentjs.com",
     "author": "Iskren Ivov Chernev <iskren.chernev@gmail.com> (https://github.com/ichernev)",
     "contributors": [
