@@ -1,5 +1,5 @@
 {
-    "name": "moment",
+    "name": "moment-ru",
     "version": "2.24.0",
     "description": "Parse, validate, manipulate, and display dates",
     "homepage": "http://momentjs.com",
@@ -13,6 +13,7 @@
     ],
     "keywords": [
         "moment",
+        "moment-ru",
         "date",
         "time",
         "parse",
@@ -30,10 +31,10 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/moment/moment.git"
+        "url": "https://github.com/monsGT-R/moment.git"
     },
     "bugs": {
-        "url": "https://github.com/moment/moment/issues"
+        "url": "https://github.com/monsGT-R/moment/issues"
     },
     "license": "MIT",
     "devDependencies": {
